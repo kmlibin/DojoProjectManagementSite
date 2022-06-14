@@ -1,6 +1,11 @@
 # Project Management Site
 ## Udemy React Course Project
 
+
+#### login info: 
+* email: buttons@dev.com
+* pass: test123
+
 This React App is to help multiple users create, plan, and comment on different shared projects. Once you are signed up and logged in, you can see a list of all users on the app and whether or not they are online. You can also create projects, describe them, and assign them to other users. Finally, you can comment on projects and filter them by category.
 
 - Firebase Deploy: https://the-dojo-site-ccb15.web.app/login
