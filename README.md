@@ -1,20 +1,20 @@
 # Project Management Site
 ## Udemy React Course Project
 
-
 #### login info: 
 * email: buttons@dev.com
 * pass: test123
 
 This React App is to help multiple users create, plan, and comment on different shared projects. Once you are signed up and logged in, you can see a list of all users on the app and whether or not they are online. You can also create projects, describe them, and assign them to other users. Finally, you can comment on projects and filter them by category.
 
-- Firebase Deploy: https://the-dojo-site-ccb15.web.app/login
+There was no landing page for this project, so I just went back and made a quick parallax so there was something nice to see on load. This landing page is fully responsive.
+
 
 ### Languages / Tools
 
 React, JavaScript, CSS, HTML
 
-Firebase, Google Fonts
+Firebase, Google Fonts, AOS library, FDN library
 
 ### Project Highlights
 
@@ -29,7 +29,8 @@ This project was designed so that students could continue practicing React and a
     7. Creating, adding, and fetching documents from Firestore in order to access user information and project information. This information was used to show lists of users, whether a user was online, and to conditionally show information (such as only the user who created the document could delete it).
     8. Authentication guards for certain routes
     9. Using Firestore Rules to bolster and increase these hard-coded guards
-    10. Deployed the project on Firebase
+    10. Media Queries for a responsive landing page
+    11. Parallax landing page, plus changes to UX on scroll
     
 
 ### What I learned / Challenges
