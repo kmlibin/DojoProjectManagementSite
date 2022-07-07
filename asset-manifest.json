@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DojoProjectManagementSite/static/css/main.b5cd12b3.css",
-    "main.js": "/DojoProjectManagementSite/static/js/main.2e2e3e70.js",
+    "main.js": "/DojoProjectManagementSite/static/js/main.d4769db1.js",
     "static/media/gollum.jpg": "/DojoProjectManagementSite/static/media/gollum.045b5edd878788834957.jpg",
     "static/media/teamwork.jpg": "/DojoProjectManagementSite/static/media/teamwork.f97ecfa74fb3fa42c4d2.jpg",
     "static/media/pagoda2.jpg": "/DojoProjectManagementSite/static/media/pagoda2.b0371a6eb7f1ed50187c.jpg",
@@ -16,10 +16,10 @@
     "static/media/dashboard_icon.svg": "/DojoProjectManagementSite/static/media/dashboard_icon.bc800f3b9286b71005c3f026ebfaa958.svg",
     "static/media/add_icon.svg": "/DojoProjectManagementSite/static/media/add_icon.376e9b6a44e5b3142f1239a3cc8504d0.svg",
     "main.b5cd12b3.css.map": "/DojoProjectManagementSite/static/css/main.b5cd12b3.css.map",
-    "main.2e2e3e70.js.map": "/DojoProjectManagementSite/static/js/main.2e2e3e70.js.map"
+    "main.d4769db1.js.map": "/DojoProjectManagementSite/static/js/main.d4769db1.js.map"
   },
   "entrypoints": [
     "static/css/main.b5cd12b3.css",
-    "static/js/main.2e2e3e70.js"
+    "static/js/main.d4769db1.js"
   ]
 }
