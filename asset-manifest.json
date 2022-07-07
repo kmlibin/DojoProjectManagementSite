@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/DojoProjectManagementSite/static/css/main.174c65e5.css",
-    "main.js": "/DojoProjectManagementSite/static/js/main.8e4b2bbd.js",
+    "main.css": "/DojoProjectManagementSite/static/css/main.b5cd12b3.css",
+    "main.js": "/DojoProjectManagementSite/static/js/main.776b9d65.js",
+    "static/media/gollum.jpg": "/DojoProjectManagementSite/static/media/gollum.045b5edd878788834957.jpg",
+    "static/media/teamwork.jpg": "/DojoProjectManagementSite/static/media/teamwork.f97ecfa74fb3fa42c4d2.jpg",
+    "static/media/pagoda2.jpg": "/DojoProjectManagementSite/static/media/pagoda2.b0371a6eb7f1ed50187c.jpg",
+    "static/media/trek.jpg": "/DojoProjectManagementSite/static/media/trek.a09e6a8bc43ad6b81af9.jpg",
+    "static/media/treksquare.jpg": "/DojoProjectManagementSite/static/media/treksquare.949d844c0756f0368139.jpg",
+    "static/media/pagodasquare.jpg": "/DojoProjectManagementSite/static/media/pagodasquare.fc19eaa32165dd0d0f4a.jpg",
+    "static/media/teamworksquare.jpg": "/DojoProjectManagementSite/static/media/teamworksquare.fac26dc636a5381d175f.jpg",
+    "static/media/treebeard.jpg": "/DojoProjectManagementSite/static/media/treebeard.3932a98474ec58205945.jpg",
+    "static/media/sauron1.jpg": "/DojoProjectManagementSite/static/media/sauron1.055f96f4dcca1f8330da.jpg",
     "index.html": "/DojoProjectManagementSite/index.html",
     "static/media/temple.svg": "/DojoProjectManagementSite/static/media/temple.c57f882d6ddeca845dd49539d9e5e2d9.svg",
     "static/media/dashboard_icon.svg": "/DojoProjectManagementSite/static/media/dashboard_icon.bc800f3b9286b71005c3f026ebfaa958.svg",
     "static/media/add_icon.svg": "/DojoProjectManagementSite/static/media/add_icon.376e9b6a44e5b3142f1239a3cc8504d0.svg",
-    "main.174c65e5.css.map": "/DojoProjectManagementSite/static/css/main.174c65e5.css.map",
-    "main.8e4b2bbd.js.map": "/DojoProjectManagementSite/static/js/main.8e4b2bbd.js.map"
+    "main.b5cd12b3.css.map": "/DojoProjectManagementSite/static/css/main.b5cd12b3.css.map",
+    "main.776b9d65.js.map": "/DojoProjectManagementSite/static/js/main.776b9d65.js.map"
   },
   "entrypoints": [
-    "static/css/main.174c65e5.css",
-    "static/js/main.8e4b2bbd.js"
+    "static/css/main.b5cd12b3.css",
+    "static/js/main.776b9d65.js"
   ]
 }
