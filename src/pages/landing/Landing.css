@@ -13,7 +13,7 @@
     .plx-image1 {
         background-image: url(../../assets/images/pagodasquare.jpg);
         background-size: cover;
-        /* background-position: center top; */
+       
     }
 }
 
@@ -27,7 +27,13 @@
 
 @media only screen and (max-width:775px) {
     .text1 {
-        padding-top: 15%;
+        padding-top: 25%;
+        min-width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow-x: hidden;
+      
     }
 }
 
@@ -43,6 +49,9 @@
 @media only screen and (max-width:775px) {
     .text1 h1 {
         font-size: 2em;
+        width: 87%;
+        margin-left: -10px;
+        box-shadow: none;
     }
 }
 
@@ -75,18 +84,32 @@ hr {
     width: 30%;
 }
 
+.text2 {
+    background-color: rgba(226, 224, 231, .5);
+    padding: 1em;
+    margin: 1em auto;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 10px 100px -20px,
+        rgba(175, 66, 31, 0.3) 0px 30px 60px -30px,
+        rgba(175, 66, 31, 0.35) 0px -2px 6px 0px inset;
+}
+
+.text3 {
+    padding: 2em;
+    margin: auto;
+}
+
 .text2,
 .text3 {
     width: 90%;
-    margin: auto;
     font-size: 1.2em;
-    padding: 2em;
     line-height: 1.5;
     letter-spacing: .1em;
 
 }
 
 @media only screen and (max-width:775px) {
+
     .text2,
     .text3 {
         width: 75%;
@@ -121,7 +144,7 @@ hr {
 
 }
 
-@media only screen and (max-width:875px) {
+@media only screen and (max-width:975px) {
     .text3 {
         flex-direction: column;
         align-items: center;
@@ -139,7 +162,7 @@ hr {
 
 }
 
-@media only screen and (max-width:875px) {
+@media only screen and (max-width:975px) {
     .testimonial {
         min-width: 80%;
         display: flex;
@@ -157,7 +180,7 @@ hr {
     }
 }
 
-@media only screen and (max-width:678px) {
+@media only screen and (max-width:778px) {
     .testimonial {
         display: flex;
         flex-direction: column;
@@ -192,7 +215,7 @@ hr {
     .plx-image3 {
         background-image: url(../../assets/images/teamworksquare.jpg);
         background-size: contain;
-        background-position: bottom center;
+        background-position: center;
     }
 }
 
