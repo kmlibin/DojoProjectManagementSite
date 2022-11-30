@@ -1,6 +1,10 @@
 # Project Management Site
 ## Udemy React Course Project
 
+
+gh-pages deploy: https://kmlibin.github.io/DojoProjectManagementSite/
+
+
 #### login info: 
 * email: buttons@dev.com
 * pass: test123
